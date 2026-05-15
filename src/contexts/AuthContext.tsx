@@ -11,7 +11,7 @@ type User = {
   aadhaarId?: string;
   userId?: string;
 };
-
+// <!-- hi harshal -
 type AuthContextType = {
   user: User | null;
   isLoggedIn: boolean;
